@@ -1,2 +1,3 @@
 # DaSE.Intro
-DaSE.Introduction in 2024 Fall.
+
+数据科学与工程导论平时作业 (2024 Fall)
